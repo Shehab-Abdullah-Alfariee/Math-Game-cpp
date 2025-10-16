@@ -34,12 +34,15 @@ This project demonstrates strong fundamentals in structured programming, enums, 
 
 
     OUTPUT Of THE PROJECT
-==============================
-     WELCOME TO MATH QUIZ
+===================</br>
+WELCOME TO MATH QUIZ</br>
+===================</br>
 ==============================
 
 How Many Questions Do You Want To Answer? 3  
+</br>
 Enter Question Level [1] Easy, [2] Med, [3] Hard, [4] Mix ? 2  
+</br>
 Enter Operation Type [1] Add, [2] Sub, [3] Mul, [4] Div, [5] Mix ? 5  
 
 Question [1/3]  
