@@ -259,11 +259,10 @@ void StartGame() {
 
 int main()
 {
-	StartGame();
-
 	srand((unsigned)time(NULL));
 
-
+	StartGame();
 
 	return 0;
 }
+
