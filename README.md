@@ -31,3 +31,38 @@ This project demonstrates strong fundamentals in structured programming, enums, 
 1. Clone this repository:
    ```bash
    git clone https://github.com/shehabaalfariee-developer/Math-Game-cpp.git
+
+
+    OUTPUT Of THE PROJECT
+==============================
+     WELCOME TO MATH QUIZ
+==============================
+
+How Many Questions Do You Want To Answer? 3
+Enter Question Level [1] Easy, [2] Med, [3] Hard, [4] Mix ? 2
+Enter Operation Type [1] Add, [2] Sub, [3] Mul, [4] Div, [5] Mix ? 5
+
+Question [1/3]
+12
+8 +
+---------------
+> 20
+✅ Correct Answer :-)
+
+Question [2/3]
+48
+12 /
+---------------
+> 5
+❌ Wrong Answer :-( 
+The Right Answer is : 4
+
+--------------------------
+Final Result Is: PASS :-)
+--------------------------
+Number Of Questions     : 3
+Question Level          : Medium
+Operation Type          : Mixed
+Right Answers           : 2
+Wrong Answers           : 1
+--------------------------------------
