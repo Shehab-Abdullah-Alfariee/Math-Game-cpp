@@ -60,7 +60,7 @@ Question [2/3]
 ❌ Wrong Answer :-(  
 The Right Answer is : 4  
 
-Question [2/3]  
+Question [3/3]  
 6  
 5 *  
 ---------------  
