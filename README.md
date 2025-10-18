@@ -62,7 +62,7 @@ The Right Answer is : 4
 
 Question [2/3]  
 6  
-5 /  
+5 *  
 ---------------  
 > 30  
 ✅ Correct Answer :-)
