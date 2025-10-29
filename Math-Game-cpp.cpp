@@ -54,7 +54,7 @@ enOpreationType ReadOpType() {
 	short OpreationType;
 	do
 	{
-		cout << "Enter Quistion Level [1] Add, [2] Sub , [3] Mul, [4] Div, [5] Mix ? ";
+		cout << "Enter Operation Type [1] Add, [2] Sub , [3] Mul, [4] Div, [5] Mix ? ";
 		cin >> OpreationType;
 	} while (OpreationType < 1 || OpreationType > 5);
 	return (enOpreationType)OpreationType;
@@ -265,4 +265,5 @@ int main()
 
 	return 0;
 }
+
 
