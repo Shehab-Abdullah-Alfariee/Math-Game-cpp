@@ -1,4 +1,4 @@
-🧮 Math Quiz Game (C++)
+## 🧮 Math Quiz Game (C++)
 
 A console-based Math Quiz Game developed in C++, allowing players to choose difficulty levels and math operation types.
 The game dynamically generates random questions, provides instant feedback, and displays a performance summary at the end of each session.
