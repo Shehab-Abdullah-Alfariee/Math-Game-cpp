@@ -1,9 +1,9 @@
-# Math Quiz Game (C++)
+🧮 Math Quiz Game (C++)
 
-A console-based Math Quiz Game built using C++, allowing players to choose difficulty levels and math operation types.
-The game generates random questions, provides instant feedback, and displays a performance summary at the end.
+A console-based Math Quiz Game developed in C++, allowing players to choose difficulty levels and math operation types.
+The game dynamically generates random questions, provides instant feedback, and displays a performance summary at the end of each session.
 
-## Features
+## 🚀 Features
 - Difficulty levels: Easy, Medium, Hard, or Mixed
 - Operation types: Addition, Subtraction, Multiplication, Division, or Mixed
 - Random question generation based on selected difficulty
@@ -11,7 +11,7 @@ The game generates random questions, provides instant feedback, and displays a p
 - Final results summary (Pass / Fail)
 - Console color feedback for correct and incorrect answers
 
-## Technologies Used
+## 🧰 Technologies Used
 - Language: C++
 - Programming Concepts: Structured Programming, Enums, Random Number Generation
 - Environment: Console Application
