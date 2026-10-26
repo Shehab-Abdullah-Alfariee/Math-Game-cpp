@@ -17,12 +17,7 @@ The game dynamically generates random questions, provides instant feedback, and 
 - Environment: Console Application
 - Compiler: g++ or any modern C++ compiler
 
-## How to Run
 ```bash
-git clone https://github.com/shehabaalfariee-developer/Math-Game-cpp.git
-cd Math-Game-cpp
-g++ main.cpp -o math_quiz
-./math_quiz
 
 WELCOME TO MATH QUIZ
 ===================
