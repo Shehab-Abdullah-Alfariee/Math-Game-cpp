@@ -17,6 +17,7 @@ The game dynamically generates random questions, provides instant feedback, and 
 - Environment: Console Application
 - Compiler: g++ or any modern C++ compiler
 
+## Output
 ```bash
 
 WELCOME TO MATH QUIZ
